@@ -1,0 +1,25 @@
+{
+  "name": "hackathon-setup",
+  "version": "1.0.0",
+  "description": "A quick example for NFT hackathon participants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cennznet/hackathon-setup.git"
+  },
+  "keywords": [
+    "CENNZnet"
+  ],
+  "author": "Centrality Developers",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cennznet/hackathon-setup/issues"
+  },
+  "homepage": "https://github.com/cennznet/hackathon-setup#readme",
+  "dependencies": {
+    "@cennznet/api": "1.4.0"
+  }
+}
