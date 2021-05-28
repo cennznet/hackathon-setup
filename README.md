@@ -1,7 +1,9 @@
 # Hackathon Setup
 
-Example code to:
-1) Connect an `api` session object with a CENNZnet testnet
+This is a simple repo that shows how to send a transaction to the [TestNet (Nikau🌴](https://wiki.cennz.net/#/Getting-started/CENNZnet-networks), using the [CENNZnet API](https://github.com/cennznet/api.js).
+
+index.js demonstrates how to:
+1) Connect an `api` session object with a CENNZnet node
 2) Load a keypair
 3) Send a transaction to say hi!
 
@@ -14,8 +16,12 @@ Supply your message, path to keypair.json and the password
 ```bash
 node index.js "hello CENNZnet!" ./myKeyPair.json  password
 ```
+You can use the [CENNZnet Portal](https://cennznet.io/) to create an account. The keypair.json is downloaded to your machine when you create the account. 
 
-output 
+The user guide for the CENNZnet Portal can be found [here](https://wiki.cennz.net/#/References/CENNZnet-infrastructures/Exploring-the-CENNZnet-UI).
+
+
+## Output 
 ```
 My CENNZnet address is: 5FWEHQqYMN8YCg8yJxKHnon7Dtx4Psp2xnjvKfQqGC6kUwgv
 Connecting to CENNZnet...
