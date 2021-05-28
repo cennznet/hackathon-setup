@@ -12,7 +12,7 @@ Example code to connect an:
 ## Run it
 Supply your message, path to keypair.json and the password
 ```bash
-node src/index.js "hello CENNZnet!" ./myKeyPair.json  password
+node index.js "hello CENNZnet!" ./myKeyPair.json  password
 ```
 
 output 
