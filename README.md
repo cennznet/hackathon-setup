@@ -25,7 +25,5 @@ Said hello 🚀: 'hello world'
 Tx hash: 0x0390f6ea97a38ef762db8c44b4e69c5d7ebf9fed9dd726ce6007162f2d3acef7
 ```
 
-Got to [UNcover](https://uncoverexplorer.com/?network=Nikau) to view the transaction!
+Go to [UNcover](https://uncoverexplorer.com/?network=Nikau) to view the transaction!
 <img width="1248" alt="Screen Shot 2021-05-28 at 14 26 12" src="https://user-images.githubusercontent.com/5133901/119920573-a9e64a80-bfc0-11eb-8512-0a3a9f257da8.png">
-
-Got to UNcover and view the transaction!
