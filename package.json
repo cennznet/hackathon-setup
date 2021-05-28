@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/cennznet/hackathon-setup#readme",
   "dependencies": {
-    "@cennznet/api": "1.4.0"
+    "@cennznet/api": "1.4.0",
+    "@polkadot/ui-keyring": "0.62.1"
   }
 }
